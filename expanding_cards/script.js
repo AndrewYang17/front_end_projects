@@ -12,3 +12,5 @@ removeActiveClasses = () => {
     panel.classList.remove('active');
   })
 };
+
+console.log("Yep, it's me Andrew Yang.");
